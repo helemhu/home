@@ -19,14 +19,14 @@
           <a :href="config.github" target="_blank">
             {{ config.author }}
           </a>
-        </span>
+        </span -->
         <!-- 站点备案 -->
-        <span>
+        <!--span>
           &amp;
           <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
             {{ siteIcp }}
           </a>
-        </span>
+        </span-->
       </div>
       <div v-else class="lrc">
         <Transition name="fade" mode="out-in">
