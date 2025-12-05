@@ -2,31 +2,26 @@
   {
     "icon": "Blog",
     "name": "影视剧场",
-    "link": "https://v.hucong.icu/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "云盘",
-    "link": "http://nas.hucong.icu/s/kEStbd2TQLpw6ma"
+    "link": "https://v.hucong.vip/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.hucong.icu/"
+    "link": "https://music.hucong.vip/"
   },
   {
     "icon": "Compass",
     "name": "搜索引擎",
-    "link": "https://nav.hucong.icu/"
+    "link": "https://nav.hucong.vip/"
   },
   {
     "icon": "Book",
     "name": "壁纸",
-    "link": "https://w.hucong.icu/"
+    "link": "https://w.hucong.vip/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.hucong.icu/"
+    "link": "https://hot.hucong.vip/"
   }
 ]
